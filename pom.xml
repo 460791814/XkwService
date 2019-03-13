@@ -8,10 +8,10 @@
         <module>xkw-framework-common</module>
         <module>xkw-framework-model</module>
         <module>xkw-framework-utils</module>
-        <module>xkw-service-api</module>
         <module>xkw-framework-api</module>
         <module>xkw-service-soft</module>
         <module>xkw-govern-center</module>
+        <module>xkw-service-article</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

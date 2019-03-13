@@ -1,8 +1,9 @@
 server:
-  port: 31001
+  port: 31002
 spring:
   application:
-    name: xkw-service-soft
+    name: xkw-service-article
+
 eureka:
   client:
     registerWithEureka: true #服务注册开关
