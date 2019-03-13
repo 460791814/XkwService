@@ -9,6 +9,8 @@
         <module>xkw-framework-model</module>
         <module>xkw-framework-utils</module>
         <module>xkw-service-api</module>
+        <module>xkw-framework-api</module>
+        <module>xkw-service-soft</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

@@ -1,4 +1,4 @@
-package com.xkw.api.config;
+package com.xkw.framework.api.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
